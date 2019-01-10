@@ -8,7 +8,7 @@ public class Task01 {
             int n = sc.nextInt();
             switch (n) {
                 case 1:
-                    System.out.println("Понедельник");
+                    System.out.println("Понедельник");// перечисления дней недели
                     break;
                 case 2:
                     System.out.println("Вторник");
